@@ -1,0 +1,15 @@
+# Core data analysis
+numpy
+pandas
+openpyxl
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning and evaluation
+scikit-learn
+
+# Notebook environment
+jupyter
+ipykernel
